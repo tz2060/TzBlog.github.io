@@ -1,39 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to MY BLOG
 
-You can use the [editor on GitHub](https://github.com/tz2060/tz2060.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+欢迎来到我的博客
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+已经习惯了喜欢一个人，
+也习惯了自己一个人。
 
 ```markdown
-Syntax highlighted code block
+《路人》
+不知为何，明明想和你说话,
+却骗你说，
+风雨正好，该去写点诗句。
 
-# Header 1
-## Header 2
-### Header 3
+不必嘲讽我，
+你笑出声来，我也当是天籁。
+不必怀有敌意，你所有心计，
+我都当是你对我的心意。
+　　
+我的宿命分两段，
+未遇见你时，和遇见你以后。
+你治好我的忧郁，而后赐我悲伤。
+忧郁和悲伤之间的片刻欢喜，
+透支了我生命全部的热情储蓄。
 
-- Bulleted
-- List
+想饮一些酒，
+让灵魂失重，
+好被风吹走。
+可一想到终将是你的路人，
+便觉得，沦为整个世界的路人。
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+风虽大，都绕过我灵魂。
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+只是彼此的路人，对吗？
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tz2060/tz2060.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-我已经疯掉了，傻掉了，完蛋了。这究竟是什么东西，要怎么搞定它呀！
-你好！
