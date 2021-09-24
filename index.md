@@ -1,11 +1,9 @@
 ## Welcome to MY BLOG
-
-欢迎来到我的博客
+Welcome to TZ Blog
 
 ### Markdown
 
-已经习惯了喜欢一个人，
-也习惯了自己一个人。
+已经习惯了喜欢一个人，也习惯了自己一个人。
 
 ```markdown
 《路人》
